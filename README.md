@@ -1,13 +1,13 @@
 # Pages
 
-** Version 1.0.0**
+** Version 1.0.0**<br />
 This is a personal website hosted on the github.
 This will be done by programming the code manually and storing the html pages on github.
 Then the github will host it using github pages.
 
 ## Installation
 
-There is no Installation method required besides the putting the url into your browser.
+There is no Installation method required besides the putting the url https://themapples.github.io/Pages/ into your browser.
 
 ## Builds
 
